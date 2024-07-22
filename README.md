@@ -17,7 +17,7 @@ Primeiro, você deve clonar o projeto na sua máquina, para isso você
 pode colar o seguinte comando em seu terminal
 
 ```bash
-git clone https://github.com/Fernanda-Kipper/frontend-cardapio.git
+git clone https://github.com/NicolasTanure/CardapioFrontEnd.git
 cd frontend-cardapio
 ```
 
@@ -42,13 +42,7 @@ npm run build
 ```
 Isso irá gerar uma versão otimizada da aplicação na pasta `dist`.
 
-## 🫂 Integração com Backend
 
-Para realizar a integração com o Backend, você pode clonar o projeto e rodar localmente, ou desenvolver você mesmo seguindo o tutorial no Youtube.
-
-
-
-👉 [Link do repositório](https://github.com/Fernanda-Kipper/backend-cardapio-digital)
 
 
 
