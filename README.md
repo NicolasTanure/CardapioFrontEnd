@@ -7,6 +7,8 @@ Este projeto é um simples simples protótipo de um Cardápio Digital desenvolvi
     <img src="./public/modal.png" width="300"/>
 </h1>
 
+##Projeto que fiz seguindo o curso e direção dos videos da professora e influenciadora Fernanda Kripper : https://www.youtube.com/watch?v=WHruc3_2z68&list=PLNCSWIsR6ADJpKXDybHpXTOnVmxZFQaAE&index=3
+
 ## 💻 Requisitos
 
 Antes de iniciar, você deve ter o Node.js e o NPM instalados em sua máquina.
